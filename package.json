@@ -1,0 +1,19 @@
+{
+  "name": "text-coding-exercise",
+  "version": "1.0.0",
+  "description": "Text Coding Exercise Project",
+  "main": "index.js",
+  "repository": "https://github.com/getrevvup/text-coding-exercise",
+  "author": "George Sequeira",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "json-server": "json-server generateData.js"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "faker": "^5.4.0"
+  }
+}
